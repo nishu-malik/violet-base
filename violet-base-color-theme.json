@@ -3,6 +3,17 @@
   "type": "dark",
   "version":"1.0.0",
   "publisher": "NishuMalik",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/nishu-malik/violet-base"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "violet theme",
+    "violet-base",
+    "nishu malik theme"
+  ]
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
